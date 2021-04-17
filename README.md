@@ -32,18 +32,22 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelmurithi&repo=math-worksheet-generator)](https://github.com/MichaelMurithi/math-worksheet-generator)
 
-## Want to learn with me ?
+## Life long learner?
 
 Exploring technology is my life. Everyday is a new day to improve and learn new concepts.
-
-Currently learning:
+### Currently learning:
 - Advanced React
 - Advanced Javascript Testing
 - React native
 - React + Firebase
 - GraphQL
 - Linux shell commands
-### Have got some cool learning repos for you....
+
+#### Want to learn with me or have some resources?
+
+Reach out to me on [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/michael-murithi-kariuki/) for a pair-programming session.
+
+### Some cool learning repos for you....
 
 
 <a href="https://github.com/MichaelMurithi/java-algorithms-implementation">
