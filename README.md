@@ -44,7 +44,7 @@ Exploring technology is my life. Everyday is a new day to improve and learn new 
 ### Practicing 
 - React with Typescript
 - Advanced React
-- Agile Methodoligies
+- Team work and Agile Methodoligies
   
 #### Want to learn with me or have some resources?
 
@@ -65,6 +65,11 @@ Reach out to me [here](https://www.linkedin.com/in/michael-murithi-kariuki/) for
 # A walk through my toungue
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmurithi)](https://github.com/michaelmurithi)
 
+# Better Dev Hub
+Here I feature some cool dev resources I have come across in the last 7 days
+
+- [GitBook](https://www.gitbook.com/) - Publish beautiful docs for your users and centralize teams knowledge for advanced collaboration
+- [Notebookjs](https://towardsdatascience.com/introducing-notebookjs-seamless-integration-between-python-and-javascript-in-computational-e654ec3fbd18) - Seemless integration between Python and Javascript in computational notebooks
 
 <!-- # My Work week
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=michaelmurithi)](https://github.com/anuraghazra/github-readme-stats) -->
