@@ -41,13 +41,13 @@ Exploring technology is my life. Everyday is a new day to improve and learn new 
 - React native
 - React + Firebase
 - GraphQL
-- Linux shell commands
+- Advanced PWA Concepts
 
 #### Want to learn with me or have some resources?
 
 Reach out to me [here](https://www.linkedin.com/in/michael-murithi-kariuki/) for a pair-programming session or a team project.
 
-### Some cool learning repos for you....
+### Have got some cool learning repos for you....
 
 
 <a href="https://github.com/MichaelMurithi/java-algorithms-implementation">
