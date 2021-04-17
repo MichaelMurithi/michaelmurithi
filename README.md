@@ -36,13 +36,15 @@
 
 Exploring technology is my life. Everyday is a new day to improve and learn new concepts.
 ### Currently learning:
-- Advanced React
 - Advanced Javascript Testing
 - React native
-- React + Firebase
 - GraphQL
-- Advanced PWA Concepts
+- React + Firebase
 
+### Practicing 
+- React with Typescript
+- Advanced React
+  
 #### Want to learn with me or have some resources?
 
 Reach out to me [here](https://www.linkedin.com/in/michael-murithi-kariuki/) for a pair-programming session or a team project.
