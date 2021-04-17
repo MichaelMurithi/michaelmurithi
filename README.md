@@ -44,6 +44,7 @@ Exploring technology is my life. Everyday is a new day to improve and learn new 
 ### Practicing 
 - React with Typescript
 - Advanced React
+- Agile Methodoligies
   
 #### Want to learn with me or have some resources?
 
