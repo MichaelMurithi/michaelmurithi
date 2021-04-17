@@ -5,12 +5,14 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/michael-murithi-kariuki/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/michaelmurithi)
 
+
 # My stats
 
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelmurithi&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 # A walk through my Repos:
 ## Learning Playgrounds
+
 <a href="https://github.com/MichaelMurithi/javascript_playground">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michaelmurithi&repo=javascript_playground&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -32,7 +34,16 @@
 
 ## Want to learn with me ?
 
-### Have got some cool repos for you....
+Exploring technology is my life. Everyday is a new day to improve and learn new concepts.
+
+Currently learning:
+- Advanced React
+- Advanced Javascript Testing
+- React native
+- React + Firebase
+- GraphQL
+- Linux shell commands
+### Have got some cool learning repos for you....
 
 
 <a href="https://github.com/MichaelMurithi/java-algorithms-implementation">
