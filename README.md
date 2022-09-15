@@ -1,6 +1,5 @@
 [![Michael Murithi Banner](assets/GithubBanner.png)](https:/michaelmurithi.dev)
 
-[![Visits Badge](https://badges.pufler.dev/visits/michaelmurithi/michaelmurithi)](https:/michaelmurithi.dev)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/murithi_myke)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/michael-murithi-kariuki/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/michaelmurithi)
@@ -26,9 +25,6 @@
 <a href="https://github.com/MichaelMurithi/comfortCafe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michaelmurithi&repo=comfortCafe" />
 </a>
-<a href="https://github.com/MichaelMurithi/mitihai_shop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michaelmurithi&repo=mitihai_shop" />
-</a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelmurithi&repo=math-worksheet-generator)](https://github.com/MichaelMurithi/math-worksheet-generator)
 
@@ -36,21 +32,24 @@
 
 Exploring technology is my life. Everyday is a new day to improve and learn new concepts.
 ### Currently learning:
-- Advanced Javascript Testing
-- React native
-- GraphQL
-- React + Firebase
+- C#
+- ASP.NET
+- Entity framework
+- API Design
+- Firebase
+- Technical writing
 
 ### Practicing 
-- React with Typescript
-- Advanced React
-- Team work and Agile Methodoligies
+- Angular with firebase
+- React
+- Django
+- Project workflows automation
   
 #### Want to learn with me or have some resources?
 
 Reach out to me [here](https://www.linkedin.com/in/michael-murithi-kariuki/) for a pair-programming session or a team project.
 
-### Have got some cool learning repos for you....
+### Have got some cool learning repos for you.... 
 
 
 <a href="https://github.com/MichaelMurithi/java-algorithms-implementation">
