@@ -1,4 +1,4 @@
-[![Michael Murithi Banner](assets/GithubBanner.png)](https:/michaelmurithi.dev)
+[![Michael Murithi Banner](assets/GithubBanner.png)](https://www.michaelmurithi.com)
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/murithi_myke)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/michael-murithi-kariuki/)
@@ -23,7 +23,7 @@
 ## Fun Projects
 
 <a href="https://github.com/MichaelMurithi/comfortCafe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michaelmurithi&repo=comfortCafe" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michaelmurithi&repo=gpt4-pdf-chatbot-langchain" />
 </a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelmurithi&repo=math-worksheet-generator)](https://github.com/MichaelMurithi/math-worksheet-generator)
@@ -32,18 +32,23 @@
 
 Exploring technology is my life. Everyday is a new day to improve and learn new concepts.
 ### Currently learning:
-- C#
-- ASP.NET
-- Entity framework
 - API Design
-- Firebase
 - Technical writing
+- Advanced C# .NET + Entity framework
+- Low level C++
 
 ### Practicing 
-- Angular with firebase
-- React
 - Django
+- Nest js
+- Next js
 - Project workflows automation
+
+### Experienced in
+- Typescript
+- Angular
+- React
+- Microsoft azure
+- C# .NET
   
 #### Want to learn with me or have some resources?
 
