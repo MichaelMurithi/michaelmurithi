@@ -18,6 +18,7 @@ Everyday is a day to improve, learn new concepts and work on exciting projects. 
 - Nest js
 - Next js
 - C# .NET + Entity framework
+- REST API design
 
 ### Frontend web development
 - Javascript
