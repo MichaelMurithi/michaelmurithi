@@ -1,53 +1,74 @@
-[![Michael Murithi Banner](assets/GithubBanner.png)](https://www.michaelmurithi.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-murithi-kariuki/)
+[![X Badge](https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/murithi_myke)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-View-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/michaelmurithi)
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/murithi_myke)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/michael-murithi-kariuki/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/michaelmurithi)
+# Michael Murithi
 
-## About me
+Embedded Software Developer | Full-Stack Web Developer | AI Apps development enthusiast
 
-Everyday is a day to improve, learn new concepts and work on exciting projects. Here is an overview of the tools I have experience in:
+I build practical software systems across hardware and web: from embedded and electronics work to production-style full-stack applications.
 
-### Embedded Software Development:
-- C++
-- Embedded Linux
-- Low level C++
+## What I Bring
 
-### Backend web development 
-- Django
-- Nest js
-- Next js
-- C# .NET + Entity framework
-- REST API design
+- Cross-domain execution: embedded, backend, frontend, and automation.
+- Product mindset: I structure projects so they are understandable, runnable, and reviewable.
+- Learning velocity: I maintain active sandbox and prototype repositories to continuously sharpen skills across stacks.
+- Collaboration-ready workflows: organized documentation, repeatable setup, and clear repository conventions.
 
-### Frontend web development
-- Javascript
-- Typescript
-- Angular
-- React
-- C# .NET
-- Bootstrap/ JQUery
+## Featured Work
 
-### Infrastructure / Tools
-- Docker
-- Microsoft azure
-- Git / Github
-- Github Actions
-- Azure Devops
+| Project | What it demonstrates | Stack |
+|---|---|---|
+| [web-app-prototypes](https://github.com/MichaelMurithi/web-app-prototypes) | Multi-project portfolio repo with two independently runnable products (Django app + full-stack TS monorepo) | Django, NestJS, React, TypeScript, PostgreSQL, Docker |
+| [learning-sandbox](https://github.com/MichaelMurithi/learning-sandbox) | Structured multi-language learning environment with consistent commit conventions and ecosystem-specific playgrounds | Angular, React, Django, Python, C# |
 
-### Automation
-- Power Automate
-- N8N
+## Engineering Focus
 
-### Electronics / Hardware Design
-- Altium PCB designer
-- Prototyping
-- PCB soldering & Debugging
+### Embedded and Electronics
+- C++ and low-level systems programming
+- Embedded Linux workflows
+- Electronics prototyping, PCB design, soldering, and debugging
 
-### Other interests
-- Agentic AI 
-  
-#### Want to collaborate with me?
+### Backend and APIs
+- Django and NestJS application development
+- REST API design and implementation
+- C# .NET and Entity Framework foundations
 
-Reach out to me [here](https://www.linkedin.com/in/michael-murithi-kariuki/) for a pair-programming session or a team project.
-****
+### Frontend Development
+- React, Angular, TypeScript, JavaScript
+- Modern frontend tooling and component-driven UI work
+- Python desktop GUI application development with PySide6
+
+### DevOps, Cloud, and Automation
+- Docker-based local and deployment workflows
+- GitHub Actions and Azure DevOps pipelines
+- Azure platform exposure
+- Power Automate and n8n for workflow automation
+
+## How I Build
+
+```mermaid
+flowchart LR
+	A[Problem / Idea] --> B[Prototype Fast]
+	B --> C[Design and Refine]
+	C --> D[Ship Runnable Project]
+	D --> E[Document Decisions]
+	E --> F[Iterate with Feedback]
+```
+
+## Current Direction
+
+- Expanding full-stack prototype quality with better architecture boundaries and deployment readiness.
+- Deepening embedded + web crossover projects where hardware meets connected software.
+- Exploring applied AI automation patterns for real-world developer and business workflows.
+
+## Open To
+
+- Full-time roles and contract opportunities in embedded systems, full-stack engineering, and automation engineering.
+- Technical collaboration on practical, high-impact products.
+- Collaborating on interesting open-source project ideas and community-driven initiatives.
+
+## Contact
+
+- LinkedIn: [michael-murithi-kariuki](https://www.linkedin.com/in/michael-murithi-kariuki/)
+- GitHub: [@MichaelMurithi](https://github.com/MichaelMurithi)
